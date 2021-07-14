@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Welcome to my page</title>
+	<style>
+
+		body {
+               <background-image: img " https://pbs.twimg.com/profile_images/1092161151/BRONX_LOGO_square_black_.jpg ";
+           }
+
+	</style>
+
+		<link rel="stylesheet" type="text/css" href="style.css3">
+	</head>
+	<body>
+
+	<div class="Nav-Mobile">
+			<img src="https://img.icons8.com/material-outlined/96/000000/menu--v1.png"/>
+			<div id="hidden-menu" class="Nav-Mobile-Items">
+				<ul>
+					<li>About</li>
+					<li>Contact</li>
+					<li>Social</li>
+				</ul>
+			</div>
+		<div class="flex-container">
+  			<div>1. Self Love</div>
+ 			<div>2. Healing</div>
+  			<div>3. Life</div>
+			</div>
+
+	<div class="Intro">
+			
+		<h3> Blessings, Thanks for stopping by!</h3>
+		<p class="blue-text">
+			This page is dedicated towards the numerous activities and I am doing to heal and provide resources to the community. The Bronx is beautiful, however, it needs a lot of resources to re-build and fight rampid social inequilties.</p>
+		<img src="https://images.fineartamerica.com/images-medium-large-5/the-bronx-graffiti-nishanth-gopinathan.jpg">
+
+		</div>
+		
+		<div class="Interests">
+			<h1>Interests</h1>
+			<ol>
+				<li class="list-item blue-text">Sports</li>
+				<li class="list-item">Farming</li>
+				<li class="list-item">Community Engagement/Activism</li>
+				<li class="list-item">Activities</li>
+			</ol>
+		</div>
+
+			<div class="Experience">
+			
+				<h2>Experience</h2>
+				
+				<p>I recently graduated from Ithaca College with bachelors of Arts- Majored in Political Science with Minors in Italian and international business. When Covid hit the country, I refused to quarantine and begun on a quest to explore my community, volunteer, and use my time and effort to spread positivity through community building and social action. My quest lead me to Friends of mosholu parkland, which introduced me to an amazing group of women in the norwood section. I believe that through volunterring activities, one can get to meet/interact with people in the community and hear their concerns about recent issues or activities happening in a certain location. My job the department o Health and New York City Health and Hospitals has equipped me of knowledge, reading the room, understanding patients (community members)needs while providing resources to tackle the issue at hand. The examples can go on but in order to understand the need a certain community, one needs to understand the community at hand, previous tramas, working hand to hand with local non-profits and organizations to create a space to heal and grow. </p>
+			<img src=" https://i.ytimg.com/vi/bJ7HOuQEi4Y/maxresdefault.jpg" width=" 460"  height="345">
+		</div>
+
+		<div class="Social">
+
+			<a href="https://www.instagram.com/call_me_edward_//">Instegram</a>
+			<a href=" https://www.miohmyfarms.com/">Co-op</a>
+		</div>
+</body>
+</html>
